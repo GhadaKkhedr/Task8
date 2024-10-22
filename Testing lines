@@ -1,0 +1,8 @@
+Task 8 
+test using 
+1- /test
+2- /test/store
+3- /test/showAll
+4- /test/show/number
+5-/test/update/existingNumber/newname
+6-/test/delete/number
